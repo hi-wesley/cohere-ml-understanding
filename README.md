@@ -9,4 +9,4 @@ Expect a guided tour through “neuron groups” — from classic edge and color
 
 ### Session\_1\_ZoomIn
 Explores layers, channels, feature visualizations of channels  
-Relevant link: [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)  
+[Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)  
