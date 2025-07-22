@@ -9,4 +9,8 @@ Expect a guided tour through “neuron groups” — from classic edge and color
 
 ### Session\_1\_ZoomIn
 Explores layers, channels, feature visualizations of channels  
-[Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)  
+[Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)
+
+### Session\_2\early_vision
+Explores what individual neurons represent
+[An Overview of Early Vision in InceptionV1](https://distill.pub/2020/circuits/early-vision/)
